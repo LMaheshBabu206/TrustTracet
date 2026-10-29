@@ -1,0 +1,2 @@
+USE trusttrace;
+SHOW TABLES;
